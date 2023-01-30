@@ -1,5 +1,5 @@
 """
-this program reads a file with both single words and two-word combinations and their respective payloads into a dictionary
+this program reads a file with both single and two-word combinations and their respective payloads into a dictionary
 it then checks of each of these two words is present in an incoming sentence
 if they are both present, the payload message is activated
 TTD: we can/may extend quarks.txt file to handling three words
@@ -43,7 +43,7 @@ print("------------output----------------")
 this part of the program
 does more or less same as the first part
 only now the input is the 'quarkset'
-and the lookup list is replaced with 'summary.txt'
+and the lookup list is 'summary.txt'
 """
 b = {}
 with open("summary.txt") as f:
