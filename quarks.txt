@@ -1,0 +1,5 @@
+am interested|pref
+am looking|pref
+bye|i greeting
+hello|i greeting
+product|product
