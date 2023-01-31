@@ -41,7 +41,7 @@ print(quarkset)
 print("------------output----------------")
 """
 this part of the program
-does more or less same as the first part
+has more or less the same structure as the first part
 only now the input is the 'quarkset'
 and the lookup list is 'summary.txt'
 """
