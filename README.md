@@ -4,4 +4,4 @@ the leading idea is that the AGI consists of PSDs. These PSDs are small lookup t
 
 You can combine PSDs into a so-called 'pyramid landscape'.
 
-A pyramid landscape can be composed in such a way that it is convergent and leads to a human-like problem solver.
+A pyramid landscape can be composed in such a way that it is convergent and forms a human-like problem solver.
