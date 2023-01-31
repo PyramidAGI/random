@@ -8,7 +8,7 @@ TTD: we can/may extend quarks.txt file to handling three words
 #input = "i am looking for judy"#
 #input = "bye for now"
 #input = "i am looking for her, bye for now"
-#input = "i am interested in product"
+#input = "i am interested in product A"
 input = input()
 a = {}
 with open("quarks.txt") as f:
