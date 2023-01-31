@@ -1,4 +1,4 @@
-i greeting|hello to you too
+greeting|salute to you too
 pref|Oh you like
 dummy|dummy
 product|this product
